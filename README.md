@@ -3,7 +3,7 @@ Web dashboard to visualize loan and lender data from 3 .csv files# Kiva Data Vis
 
 | MongoDB Structure | Dashboard Interface |
 | :---: | :---: |
-| <img src="map_categories.gif" width="350" alt="MongoDB Structure"> | <img src="sidebar_filter_search.gif" width="350" alt="Dashboard Visualization"> |
+| <img src="database.gif" width="350" alt="MongoDB Structure"> | <img src="map_categories.gif" width="350" alt="MongoDB Structure"><img src="sidebar_filter_search.gif" width="350" alt="Dashboard Visualization"> |
 
 ## Description
 An interactive web dashboard built with Python to visualize lender and loan data from Kiva. The project was enhanced by migrating from a static CSV-based script to a dynamic MongoDB-integrated system, allowing for complex queries and real-time filtering.
